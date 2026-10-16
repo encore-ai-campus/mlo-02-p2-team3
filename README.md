@@ -232,7 +232,7 @@ Medallion/
 ### 공통 준비
 
 - Python과 Jupyter 환경에서 테이블별 노트북의 입력 경로·의존 파일을 확인합니다.
-- `hospital_명세서.xlsx`, ERD, [공통 규약](common_contract.md)을 함께 참고합니다.
+- `hospital_명세서.xlsx`, ERD를 함께 참고합니다.
 - 필요한 패키지는 노트북의 import와 소주제별 `requirements.txt`를 기준으로 설치합니다. 저장소 전체를 자동 실행하는 단일 명령은 제공하지 않습니다.
 - SQL 파일을 실행하기 전 내용을 확인합니다. 수납의 뷰 구성 SQL은 **CREATE VIEW 권한이 필요한 준비 작업**이며 조회 전용 SQL과 구분합니다.
 
